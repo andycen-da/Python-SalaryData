@@ -8,3 +8,5 @@ across multiple countries. It includes variables such as salary, job title, coun
 The dataset can be used to analyze salary differences based on job roles, geographic
 locations, and racial factors. It provides insights into global salary trends and can be useful
 for research on income disparities, workforce diversity, and regional economic conditions.
+
+Tableau Link: https://public.tableau.com/app/profile/andy.cen/viz/CareerFoundryTask6_7DataDashboards/Story?publish=yes
